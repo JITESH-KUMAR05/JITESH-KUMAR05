@@ -25,7 +25,7 @@
 
 - 📫 How to reach me: **jitesh.kumar05official@gmail.com**
 
-- 👨‍💻 All of my projects are available at: [https://www.iamjitesh.me](https://www.iamjitesh.me)
+- 👨‍💻 Or Reach out to me at: [https://www.iamjitesh.me](https://www.iamjitesh.me)
 
 - 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1BkeNCI7IAyIpECk1biUKytrvY7tI6HCa/view?usp=sharing)
 

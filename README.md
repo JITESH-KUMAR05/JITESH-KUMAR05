@@ -71,10 +71,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JITESH-KUMAR05&show_icons=true&locale=en&theme=tokyonight" alt="Jitesh's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JITESH-KUMAR05&theme=tokyonight" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JITESH-KUMAR05&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JITESH-KUMAR05&show_icons=true&locale=en&theme=tokyonight&count_private=true&cache_seconds=1800" alt="Jitesh's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JITESH-KUMAR05&theme=tokyonight&cache_seconds=1800" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JITESH-KUMAR05&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Languages" />
 </p>
+
 
 ---
 

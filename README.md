@@ -45,12 +45,9 @@
   <a href="https://www.youtube.com/@jiteshiscreator" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" />
   </a>
-  <a href="https://www.codechef.com/users/jitesh_kumar05" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codechef.svg" alt="codechef" height="30" width="30" style="filter: invert(100%) sepia(100%) saturate(0%) hue-rotate(180deg) brightness(200%);" />
+ <a href="https://www.codechef.com/users/jitesh_kumar05" target="_blank">
+  <img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="codechef" />
 </a>
-
-
-
   <a href="https://discord.gg/jk05_" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" />
   </a>

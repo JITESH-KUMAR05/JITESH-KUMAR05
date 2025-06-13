@@ -46,9 +46,8 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" />
   </a>
   <a href="https://www.codechef.com/users/jitesh_kumar05" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/codechef.svg" alt="codechef" height="30" width="30" style="filter: invert(0.5);" />
+  <img src="https://img.icons8.com/ios-filled/50/000000/codechef.png" alt="codechef" height="30" width="30"/>
   </a>
-
   <a href="https://discord.gg/jk05_" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" />
   </a>

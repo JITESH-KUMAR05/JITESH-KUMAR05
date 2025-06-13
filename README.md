@@ -30,13 +30,27 @@
 ### 📬 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/jiteshkumar05" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" /></a>
-  <a href="https://leetcode.com/u/jitesh_kumar05" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="30" /></a>
-  <a href="https://www.hackerrank.com/jitesh_kumar05o1" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" alt="HackerRank" width="30" /></a>
-  <a href="https://www.geeksforgeeks.org/user/jiteshkumarp9as/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" width="30" /></a>
-  <a href="https://www.youtube.com/@jiteshiscreator" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" alt="YouTube" width="30" /></a>
-  <a href="https://www.codechef.com/users/jitesh_kumar05" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" width="30" /></a>
-  <a href="https://discord.gg/jk05_" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/discord.svg" alt="Discord" width="30" /></a>
+  <a href="https://linkedin.com/in/jiteshkumar05" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+  </a>
+  <a href="https://leetcode.com/u/jitesh_kumar05" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" />
+  </a>
+  <a href="https://www.hackerrank.com/jitesh_kumar05o1" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/jiteshkumarp9as/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gfg" height="30" width="40" />
+  </a>
+  <a href="https://www.youtube.com/@jiteshiscreator" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" />
+  </a>
+  <a href="https://www.codechef.com/users/jitesh_kumar05" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codechef" height="30" width="40" />
+  </a>
+  <a href="https://discord.gg/jk05_" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" />
+  </a>
 </p>
 
 ---

@@ -46,7 +46,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" />
   </a>
  <a href="https://www.codechef.com/users/jitesh_kumar05" target="_blank">
-  <img src="https://img.icons8.com/fluent/48/codechef.png" alt="codechef" height="30" width="40" />
+  <img src="https://img.icons8.com/plasticine/512/codechef.png" alt="codechef" height="30" width="40" />
 </a>
 
   <a href="https://discord.gg/jk05_" target="_blank">

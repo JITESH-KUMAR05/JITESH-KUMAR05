@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jitesh Kumar</h1>
-<h3 align="center">A passionate Full-Stack Developer & AI Enthusiast from India</h3>
+<h3 align="center">An AI enthusiast with a strong interest in software development, currently exploring Machine Learning and Generative AI to build intelligent real-world solutions.</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=JITESH-KUMAR05&label=Profile%20views&color=0e75b6&style=flat" alt="JITESH-KUMAR05" />

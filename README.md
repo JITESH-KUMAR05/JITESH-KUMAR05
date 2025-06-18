@@ -81,7 +81,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats-git-master-jitesh-kumars-projects.vercel.app/api?username=JITESH-KUMAR05&show_icons=true&locale=en&theme=tokyonight&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=JITESH-KUMAR05&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=jitesh-kumar05&theme=tokyonight" alt="GitHub Streak" />
   <img src="https://github-readme-stats-git-master-jitesh-kumars-projects.vercel.app/api/top-langs/?username=JITESH-KUMAR05&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 

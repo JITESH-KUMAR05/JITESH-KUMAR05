@@ -22,8 +22,8 @@
 - 💬 Ask me about **React, Python, OpenCV, and Community Building**
 - 📫 Reach me at: [jitesh.kumar05official@gmail.com](mailto:jitesh.kumar05official@gmail.com)
 - 🌐 Visit my portfolio: [iamjitesh.me](https://www.iamjitesh.me)
-- 📄 [Resume](https://drive.google.com/file/d/1BkeNCI7IAyIpECk1biUKytrvY7tI6HCa/view?usp=sharing)
-- ⚡ **Fun Fact:** I’ve solved 200+ LeetCode problems, but I still get nervous when I forget a semicolon 😅
+- 📄 [Resume](https://drive.google.com/file/d/1b-5IFwyN2CfmvX21a9fLDyJheGx8w98D/view?usp=sharing)
+- ⚡ **Fun Fact:** I’ve solved 300+ LeetCode problems, but I still get nervous when I forget a semicolon 😅
 
 ---
 

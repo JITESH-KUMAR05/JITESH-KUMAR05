@@ -22,7 +22,7 @@
 - 💬 Ask me about **React, Python, OpenCV, and Community Building**
 - 📫 Reach me at: [jitesh.kumar05official@gmail.com](mailto:jitesh.kumar05official@gmail.com)
 - 🌐 Visit my portfolio: [iamjitesh.me](https://www.iamjitesh.me)
-- 📄 [Resume](https://drive.google.com/file/d/1b-5IFwyN2CfmvX21a9fLDyJheGx8w98D/view?usp=sharing)
+- 📄 [Resume](https://drive.google.com/file/d/134EHN98LYTti0N4uxZ5J_u9r7LXTt_M_/view)
 - ⚡ **Fun Fact:** I’ve solved 300+ LeetCode problems, but I still get nervous when I forget a semicolon 😅
 
 ---

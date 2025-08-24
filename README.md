@@ -84,7 +84,12 @@
   <img src="https://streak-stats.demolab.com/?user=jitesh-kumar05&theme=tokyonight&cache_seconds=1800" alt="GitHub Streak" />
   <img src="https://github-readme-stats-git-master-jitesh-kumars-projects.vercel.app/api/top-langs/?username=jitesh-kumar05&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Languages" />
 </p>
-
+<p>
+  <img src="https://leetcard.jacoblin.cool/jitesh_kumar05?theme=light&ext=contest" alt="LeetCode Stats" />
+</p>
+<p>
+  <i>Powered by <a href="https://github.com/JacobLinCool/LeetCode-Stats-Card">LeetCard</a></i>
+</p>
 
 ---
 

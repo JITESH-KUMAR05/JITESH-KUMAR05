@@ -1,15 +1,18 @@
 <h1 align="center">Hi 👋, I'm Jitesh Kumar</h1>
 <h3 align="center">An AI enthusiast with a strong interest in software development, currently exploring Machine Learning and Generative AI to build intelligent real-world solutions.</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JITESH-KUMAR05&label=Profile%20views&color=0e75b6&style=flat" alt="JITESH-KUMAR05" />
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=JITESH-KUMAR05&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/JITESH-KUMAR05?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/JITESH-KUMAR05?label=Stars&style=social" alt="GitHub Stars" />
+</div>
 
-<p align="center">
+<div align="center">
+  <h3>🏆 GitHub Trophies</h3>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=JITESH-KUMAR05&theme=onedark&margin-w=10&no-bg=true&row=2&column=3" alt="github-trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=JITESH-KUMAR05&theme=onedark&margin-w=15&margin-h=15&no-bg=true&no-frame=true&row=2&column=3&cache_seconds=1800" alt="GitHub Profile Trophy" loading="lazy" />
   </a>
-</p>
+</div>
 
 ---
 
@@ -79,30 +82,42 @@
 
 ### 📊 GitHub Stats
 
+<div align="center">
+  
+  <img src="https://github-readme-stats-git-master-jitesh-kumars-projects.vercel.app/api?username=jitesh-kumar05&show_icons=true&locale=en&theme=tokyonight&count_private=true&cache_seconds=1800&border_radius=10" alt="GitHub Stats" loading="lazy" />
+  
+  <img src="https://streak-stats.demolab.com/?user=jitesh-kumar05&theme=tokyonight&cache_seconds=1800&border_radius=10" alt="GitHub Streak" loading="lazy" />
+  
+  <img src="https://github-readme-stats-git-master-jitesh-kumars-projects.vercel.app/api/top-langs/?username=jitesh-kumar05&layout=compact&theme=tokyonight&cache_seconds=1800&border_radius=10" alt="Top Languages" loading="lazy" />
+
+</div>
+
+<div align="center">
+  
+  <img src="https://leetcard.jacoblin.cool/jitesh_kumar05?theme=dark&font=source_code_pro&ext=contest&cache=1800" alt="LeetCode Stats" loading="lazy" />
+  
+</div>
+
 <p align="center">
-  <img src="https://github-readme-stats-git-master-jitesh-kumars-projects.vercel.app/api?username=jitesh-kumar05&show_icons=true&locale=en&theme=tokyonight&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=jitesh-kumar05&theme=tokyonight&cache_seconds=1800" alt="GitHub Streak" />
-  <img src="https://github-readme-stats-git-master-jitesh-kumars-projects.vercel.app/api/top-langs/?username=jitesh-kumar05&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Languages" />
-</p>
-<p>
-  <img src="https://leetcard.jacoblin.cool/jitesh_kumar05?theme=light&ext=contest" alt="LeetCode Stats" />
-</p>
-<p>
-  <i>Powered by <a href="https://github.com/JacobLinCool/LeetCode-Stats-Card">LeetCard</a></i>
+  <i>📈 Powered by <a href="https://github.com/anuraghazra/github-readme-stats">GitHub Stats</a>, <a href="https://github.com/denvercoder1/github-readme-streak-stats">Streak Stats</a>, and <a href="https://github.com/JacobLinCool/LeetCode-Stats-Card">LeetCard</a></i>
 </p>
 
 ---
 
 ### 🔁 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JITESH-KUMAR05&theme=react-dark" alt="Contribution Graph" />
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JITESH-KUMAR05&theme=react-dark&bg_color=1a1b27&hide_border=true&area=true&cache_seconds=1800" alt="Contribution Graph" loading="lazy" />
+</div>
 
 ---
 
 ### 🐍 Contribution Snake Animation
 
-<p align="center">
-  <img src="https://github.com/JITESH-KUMAR05/JITESH-KUMAR05/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/JITESH-KUMAR05/JITESH-KUMAR05/blob/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/JITESH-KUMAR05/JITESH-KUMAR05/blob/output/github-contribution-grid-snake.svg">
+    <img src="https://github.com/JITESH-KUMAR05/JITESH-KUMAR05/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" loading="lazy" />
+  </picture>
+</div>

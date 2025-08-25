@@ -83,7 +83,7 @@
 
 ## 🔥 GitHub Contribution Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=JITESH-KUMAR05&theme=tokyonight&cache_seconds=1800)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=JITESH-KUMAR05&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
 

@@ -94,12 +94,18 @@ Welcome to my GitHub profile! I'm passionate about leveraging AI and software de
 
 ## 🏆 LeetCode Stats
 
-<p align="center">
+<p>
+  <img src="https://leetcard.jacoblin.cool/jitesh_kumar05?theme=gradient&ext=contest" alt="LeetCode Stats" />
+</p>
+<p>
+  <i>Powered by <a href="https://github.com/JacobLinCool/LeetCode-Stats-Card">LeetCard</a></i>
+</p>
+<!-- <p align="center">
   <img src="https://leetcode-status.vercel.app/api/card/jitesh_kumar05?theme=gradient&logo=true&custom_title=Jitesh%20Kumar" alt="LeetCode Stats" />
 </p>
 <p align="center" style="font-style: italic;">
   Powered by <a href="https://github.com/JacobLinCool/LeetCode-Stats-Card" target="_blank">LeetCard</a>
-</p>
+</p> -->
 
 ---
 

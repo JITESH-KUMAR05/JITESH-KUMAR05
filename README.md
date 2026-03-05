@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm passionate about leveraging AI and software de
 
 📫 Feel free to reach out to me at: [jitesh.kumar05official@gmail.com](mailto:jitesh.kumar05official@gmail.com)  
 🌐 Check out my portfolio: [iamjitesh.me](https://www.iamjitesh.me)  
-📄 Interested in my work history? See my [Resume](https://drive.google.com/file/d/1im7fxHyohBuof07iTPjRwHJZpHHm9g5z/view)  
+📄 Interested in my work history? See my [Resume](https://drive.google.com/file/d/1BCntRqM9LMh85SkfrpMFUQqwbilx3v2S/view)  
 ⚡ **Fun Fact:** Solved 300+ LeetCode problems but still get nervous when I miss a semicolon 😅
 
 ---
